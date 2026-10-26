@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Werickson Alexsander
 
-🚀 **Estudante de Back-End | Java.**
+🚀 **Estudante de Back-End | Java**
 📍 Brasil
 
 Construo sistemas back-end com Java, plataformas web em React e soluções orientadas a dados.
